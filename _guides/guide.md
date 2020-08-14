@@ -106,14 +106,6 @@ Check [{{ site.centralized_workflow_exercise_url }}]({{ site.centralized_workflo
 
 ---
 
-### Interesting questions you might get
-
-If participants run `git graph` they might notice `origin/HEAD`.
-This has been omitted from the figures to not overload them.
-This pointer represents the default branch of the remote repository.
-
----
-
 ### Timing
 
 - The centralized collaboration episode is densest and introduces many new concepts,
@@ -151,5 +143,5 @@ to the pull request needs to be explained.
 
 ### Other practical aspects
 
-- Participants really have to sit next to someone, so that they can see the screens. From the beginning.
-- Emphasize use of `git graph` a lot, just like in the git-solo lesson.
+- Participants really have to sit next to someone, or see the screens. From the beginning.
+
