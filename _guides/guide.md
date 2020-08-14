@@ -10,13 +10,17 @@ permalink: /guide/
 In order to collaborate efficiently using Git, it's essential to have a solid understanding of 
 how remotes work, and how to contribute changes through pull requests. 
 The git-intro lesson teaches participants how to work efficiently with Git when there is only 
-one developer. This lesson dives into the collaborative aspects of Git and focuses on the possible 
+one developer. 
+
+This lesson dives into the collaborative aspects of Git and focuses on the possible 
 collaborative workflows enabled by web-based repository hosting platforms like GitHub.
 
-This lesson is meant to directly benefit workshop participants who have prior experience with Git, 
+This lesson is meant for workshop participants who have prior experience with Git, 
 enabling them to put collaborative workflows involving code review directly into practice 
-when they return to their normal work. For novice Git users (who may have learned a lot in the git-intro 
-lesson) this lesson is somewhat challenging, but the lesson aims to introduce them to the concepts
+when they return to their normal work.
+
+For novice Git users (who may have learned a lot in the Version Control with Git
+lesson) this lesson is somewhat challenging, but the lesson aims to introduce these learners to the concepts
 and give them confidence to start using these workflows later when they have gained some further experience 
 in working with Git.
 
@@ -26,10 +30,11 @@ By the end of this lesson, learners should:
 - understand the concept of remotes
 - be able to describe the difference between local and remote branches
 - be able to describe the difference between centralized and forking workflows
-- know how to use pull requests to submit changes to another projects
+- know the difference between `git pull` and a pull request on GitHub or GitLab
+- know how to use pull requests to submit changes to other projects that they are not maintaining
 - know how to reference issues in commits or pull requests and how to auto-close issues
-- know how to update a fork.
-- be able to contribute in code review.
+- know how to update their own fork of a repository.
+- understand and participate in the code review process
 
 ## How to teach this lesson
 
