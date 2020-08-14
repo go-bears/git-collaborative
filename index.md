@@ -40,6 +40,4 @@ look into how to automate tasks using Git hooks.
 > that you will interact with [GitHub](https://github.com)-based repositories even if you
 > choose to host your Git repository on another platform.
 >
-> We also encourage course participants to use our new [Nordic research software repository platform](https://source.coderefinery.org),
-> for more information see [https://coderefinery.org/repository/](http://coderefinery.org/repository/).
-{: .prereq}
+
